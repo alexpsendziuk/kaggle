@@ -1,2 +1,2 @@
 # kaggle
-Kaggle repository for comps code and data
+Repositório para armazenar notebooks e material usado nas competições do Kaggle.
